@@ -1,0 +1,49 @@
+/* Login and signup forms */
+
+.account-form button {
+  width: 4rem;
+  margin-left: 80px;
+}
+
+#signup-form button {
+  width: 8rem;
+}
+
+.account-forms-container {
+  padding-left: 20px;
+}
+
+#user-profile{
+  position: relative;
+  background-color: #f6f6ef;
+  height: 50vh;
+}
+
+.profile-btn{
+  width: auto;
+  margin: 10px;
+  border: none;
+  border-radius: 4px;
+  padding: 8px;
+  font-size: 0.85rem;
+  background-color: lightslategray;
+  color: white;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+#name-btn{
+  position: absolute;
+  bottom: 0;
+  left: 35%;
+}
+
+#password-btn{
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+}
+
+.update-label{
+  margin-right:70px;
+}
